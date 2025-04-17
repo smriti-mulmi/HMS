@@ -1,0 +1,35 @@
+.table-heading {
+    text-align: center;
+    margin-bottom: 20px;
+    font-size: 24px;
+    font-weight: bold;
+  }
+  
+  .styled-table {
+    width: 100%;
+    border-collapse: collapse;
+    margin: 20px 0;
+    font-size: 18px;
+    text-align: left;
+    background-color: #333;
+    color: white;
+    border-radius: 8px;
+    overflow: hidden;
+  }
+  
+  .styled-table th, .styled-table td {
+    padding: 12px;
+    border: 1px solid #555;
+  }
+  
+  .styled-table th {
+    background-color: #444;
+  }
+  
+  .room-image {
+    width: 80px;
+    height: 80px;
+    object-fit: cover;
+    border-radius: 5px;
+  }
+  
